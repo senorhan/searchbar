@@ -15,3 +15,8 @@
   cursor: pointer;
   outline: none;
 }
+
+#searchBtn: hover {
+  background: #000000;
+  color:#ffffff;
+}
